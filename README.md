@@ -1,7 +1,7 @@
 # Nudity-Detector
 This project implements a nudity detection system using deep learning techniques. The model is trained using the VGG19 architecture and achieves high accuracy in identifying and classifying images as "Nude" or "NonNude". It can be used as a content filtering tool to prevent the distribution or display of explicit or adult content.
 
-Dataset
+## Dataset
 The dataset used for training the nudity detection model should consist of two classes: "Nude" and "NonNude". It should be organized into separate folders for training, testing, and validation. Make sure to have a diverse and representative dataset for accurate results.
 
 Model Architecture
